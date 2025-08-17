@@ -42,8 +42,5 @@
     "jimp": "0.16.1",
     "sequelize": "^6.37.7",
     "sqlite3": "^5.1.7"
-  },
-  "overrides": {
-  "sharp": "0.0.1"
   }
 }
